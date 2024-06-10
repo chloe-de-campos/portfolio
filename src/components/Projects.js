@@ -9,6 +9,7 @@ import Marsicon from './projecticons/Marscreenshot.png'
 import Carton from './projecticons/Carton.jpeg'
 import NuGoicon from './projecticons/nugo mockup dark.png'
 import Shindigicon from './projecticons/Shindig.png'
+import wyr from './projecticons/wyr.png'
 
 import NuGo from '../project-pages/NuGo/NuGo.js'
 import Shindig from '../project-pages/Shindig/Shindig.js'
@@ -16,8 +17,16 @@ import Dev from '../project-pages/BuildAZoo/BuildAZoo.js'
 import Mars from '../project-pages/Mars/Mars.js'
 import EggProblem from '../project-pages/EggProblem/EggProblem.js'
 import SustainableInfrastructure from '../project-pages/SustainableInfrastructure/SustainableInfrastructure.js'
+import Wouldyourather from '../project-pages/Wouldyourather/Wouldyourather.js'
 
 const Projects = [
+    {"name": "Would You Rather",
+    "link": "Wouldyourather",
+    "image": wyr,
+    "desc": "An integrated web app polling users on challenging questions", 
+    "year": "2024 • Web Development",
+    "content":  Wouldyourather
+    },
 
     {"name": "NuGo",
     "link": "NuGo",
