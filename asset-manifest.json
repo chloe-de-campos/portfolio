@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "./static/css/main.5733a04b.css",
-    "main.js": "./static/js/main.720710c6.js",
+    "main.css": "./static/css/main.b0ef80e1.css",
+    "main.js": "./static/js/main.f65fc5f9.js",
+    "static/media/usevideowyr.mov": "./static/media/usevideowyr.3ba2f31fc4f065581f78.mov",
     "static/media/iterativeflow.gif": "./static/media/iterativeflow.aa60665c970f04aae90a.gif",
     "static/media/nugo mockup dark short.png": "./static/media/nugo mockup dark short.3ea4375a8a126cea22c6.png",
     "static/media/getup_man_long.gif": "./static/media/getup_man_long.c8cdca070fa3559eb0f8.gif",
@@ -39,6 +40,7 @@
     "static/media/shindig3.png": "./static/media/shindig3.4d1ae151911850477dfa.png",
     "static/media/shindig4.png": "./static/media/shindig4.66584d78fecc3b1ea1a2.png",
     "static/media/wave_man.gif": "./static/media/wave_man.ea2e7bcc81f6c5e38cd0.gif",
+    "static/media/wyr.png": "./static/media/wyr.280a3baa10c03185bdc4.png",
     "static/media/shindig5.png": "./static/media/shindig5.9ca7520dff11c5a826e0.png",
     "static/media/Learning.png": "./static/media/Learning.d8d020ab16056bfdb64d.png",
     "static/media/Discover.png": "./static/media/Discover.672e0c5dc842e5eb097d.png",
@@ -47,11 +49,11 @@
     "static/media/NFT.png": "./static/media/NFT.ba80fdcf0e6f93cd1843.png",
     "static/media/Profile.png": "./static/media/Profile.29377c0cc62304711f32.png",
     "index.html": "./index.html",
-    "main.5733a04b.css.map": "./static/css/main.5733a04b.css.map",
-    "main.720710c6.js.map": "./static/js/main.720710c6.js.map"
+    "main.b0ef80e1.css.map": "./static/css/main.b0ef80e1.css.map",
+    "main.f65fc5f9.js.map": "./static/js/main.f65fc5f9.js.map"
   },
   "entrypoints": [
-    "static/css/main.5733a04b.css",
-    "static/js/main.720710c6.js"
+    "static/css/main.b0ef80e1.css",
+    "static/js/main.f65fc5f9.js"
   ]
 }
