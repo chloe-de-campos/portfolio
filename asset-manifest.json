@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.b0ef80e1.css",
-    "main.js": "./static/js/main.f65fc5f9.js",
+    "main.js": "./static/js/main.133450c9.js",
     "static/media/usevideowyr.mov": "./static/media/usevideowyr.3ba2f31fc4f065581f78.mov",
     "static/media/iterativeflow.gif": "./static/media/iterativeflow.aa60665c970f04aae90a.gif",
     "static/media/nugo mockup dark short.png": "./static/media/nugo mockup dark short.3ea4375a8a126cea22c6.png",
@@ -50,10 +50,10 @@
     "static/media/Profile.png": "./static/media/Profile.29377c0cc62304711f32.png",
     "index.html": "./index.html",
     "main.b0ef80e1.css.map": "./static/css/main.b0ef80e1.css.map",
-    "main.f65fc5f9.js.map": "./static/js/main.f65fc5f9.js.map"
+    "main.133450c9.js.map": "./static/js/main.133450c9.js.map"
   },
   "entrypoints": [
     "static/css/main.b0ef80e1.css",
-    "static/js/main.f65fc5f9.js"
+    "static/js/main.133450c9.js"
   ]
 }
