@@ -64,8 +64,9 @@ const Wouldyourather = ()  => {
                     Showing real-time statistics without overwhelming the user required careful design. I opted for a pie chart that dynamically updates, providing a clear and immediate visual representation of the data. The color of the pie chart matches the color of the selected button, so users can understand their responses. I also added shortened versions of the labels for quick recognition with the longer labels available on hover. 
 
                 <h2>The App</h2>
-                
-                <a href={"https://chloe-de-campos.github.io/wouldyourather/#/"}>Check out the app here. </a>
+
+                    6/12: I broke it! The database on the backend is full! Stay tuned for repairs.
+                    <a href={"https://chloe-de-campos.github.io/wouldyourather/#/"}>Check out the app here. </a>
 
 
             </div> 
